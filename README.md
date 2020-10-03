@@ -1,0 +1,2 @@
+# rgd
+Relativistic Gradient Descent
