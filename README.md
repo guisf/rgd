@@ -4,4 +4,4 @@ Code related to the algorithm proposed in https://arxiv.org/abs/1903.04100 (spot
 
 If you use this code please cite:
 
-G. Franca et. al., "Conformal Symplectic and Relativistic Optimization," Neural Information Processing Systems (2020).
+G. França et. al., "Conformal Symplectic and Relativistic Optimization," Neural Information Processing Systems (2020).
