@@ -1,8 +1,8 @@
 # Relativistic Gradient Descent (RGD)
 
-Code related to the algorithm proposed in https://arxiv.org/abs/1903.04100.
+Code related to the algorithm proposed in "Conformal symplectic and relativistic optimization" by G. Franca et. al. 
 
-This paper was accepted at NeurIPS 2020 (spotlight):
+This paper was presented at NeurIPS 2020 (spotlight):
 https://proceedings.neurips.cc/paper/2020/hash/c4b108f53550f1d5967305a9a8140ddd-Abstract.html
 
 An extended version of this paper was published at:
