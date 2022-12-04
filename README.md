@@ -1,6 +1,6 @@
 # Relativistic Gradient Descent (RGD)
 
-RGD is an optimization method based on the simulation of a relativistic particle under the influence of a potential (objective function) and friction. We use a symplectic integrator to simulate the system.  RGD generalizes the classical momentum method (Polyak's heavy ball) and the accelerated gradient descent method (Nesterov's method), and have usually a superior performance.
+RGD is an optimization method based on the simulation of a relativistic particle under the influence of a potential (objective function) and friction. We use a symplectic integrator to simulate the system.  RGD generalizes the classical momentum method (Polyak's heavy ball) and the accelerated gradient descent (Nesterov's method), and have usually superior performance.
 
 This method was proposed in the G. França et. al., "Conformal symplectic and relativistic optimization,"  J. Stat. Mech. (2020) 124008 (https://iopscience.iop.org/article/10.1088/1742-5468/abcaee)
 
