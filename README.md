@@ -7,7 +7,6 @@ RGD generalizes both CM and NAG and usually have a superior performance. For ins
 
 ![](https://github.com/guisf/rgd/blob/main/figs/mat_comp_rate.png)
  
-This method was proposed in the G. França et. al., "Conformal symplectic and relativistic optimization,"  J. Stat. Mech. (2020) 124008 (https://iopscience.iop.org/article/10.1088/1742-5468/abcaee)
+This method was proposed in the [G. França et. al., "Conformal symplectic and relativistic optimization,"  J. Stat. Mech. (2020) 124008](https://iopscience.iop.org/article/10.1088/1742-5468/abcaee)
 
-A shorter version of this paper was also published at NeurIPS 2020 (spotlight):
-https://proceedings.neurips.cc/paper/2020/hash/c4b108f53550f1d5967305a9a8140ddd-Abstract.html
+A shorter version of this paper was also published at [NeurIPS 2020 (spotlight)](https://proceedings.neurips.cc/paper/2020/hash/c4b108f53550f1d5967305a9a8140ddd-Abstract.html)
